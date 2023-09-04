@@ -1,1 +1,1 @@
-This project is a sample for Git working 
+This project is a sample for Git working created by me for practicing.
