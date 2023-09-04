@@ -1,0 +1,1 @@
+This project is a sample for Git working 
